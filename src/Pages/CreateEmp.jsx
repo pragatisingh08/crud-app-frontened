@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../Components/Navbar";
 import axios from "axios";
 import { api } from "../axios/axiosInstance";
 import toast from "react-hot-toast";

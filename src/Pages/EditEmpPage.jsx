@@ -1,7 +1,7 @@
 import { useNavigate, useParams } from "react-router-dom";
 import { api } from "../axios/axiosInstance";
 import { useEffect, useState } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../Components/Navbar";
 import toast from "react-hot-toast";
 
 const EditEmpPage = () => {

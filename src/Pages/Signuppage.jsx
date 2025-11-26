@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../Components/Navbar";
 import { Link } from "react-router-dom";
 import toast from "react-hot-toast";
 
